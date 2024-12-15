@@ -17,7 +17,7 @@
 			<br><br><br>
 
 
-				<h2 style="padding-left: 550px; ">Registration complete!</h2>
+				<h2 style="padding-left: 550px; color">Registration complete!</h2>
 				<p   style="padding-left: 580px">You have completed your Registration.</p>
 				
 		

@@ -26,7 +26,7 @@
 						<p>
 							Movie-Point is your one stop search Movie for the movie you want to watch
 							<br> to this major movie streaming sites, the goal of this website is to
-							help the user to look up first<br> the movies series, or documentaries they want to watch before they decide to where to i this platforms 
+							help the user to look up first<br> the movies series, or documentaries they want to watch before they decide to subscribe 
 							<br><br>
 						
 						</p>

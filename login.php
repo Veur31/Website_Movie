@@ -27,7 +27,7 @@
 				if(!empty($_POST['email'])){
 					$e = mysqli_real_escape_string($dbcon, $_POST['email']);
 				}else{
-					echo '<p class = "edesign">No email. <br></p>';
+					echo '<p class = "edesign">No email.</p>';
 					$e= Null;
 
 				}
