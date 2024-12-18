@@ -24,9 +24,9 @@
 				<div class="card-body">
 					<div class="center">
 						<p>
-							Movie-Point is your one stop search Movie for the movie you want to watch
-							<br> to this major movie streaming sites, the goal of this website is to
-							help the user to look up first<br> the movies series, or documentaries they want to watch before they decide to subscribe 
+							Movie-Point is your one stop search Movie for the movie you want to watch,
+							<br> the goal of this website is to
+							help the user to look up first the movies, series, or documentaries<br> they want to watch before they decide to subscribe.
 							<br><br>
 						
 						</p>
@@ -46,7 +46,7 @@
 				
 					 <br>
 				<div class="center">
-					<a href="#" class="btn btn-primary" style="color:black;">Click here</a>
+					<a href="https://www.netflix.com/ph-en/" class="btn btn-primary" style="color:black;">Click here</a>
 				</div>
 			</div>
 		</div>
@@ -58,7 +58,7 @@
 				
 					 <br>
 				<div class="center">
-					<a href="#" class="btn btn-primary" style="color:black;">Click here</a>
+					<a href="https://redeem.apps.disneyplus.com/ph/onboarding?gclid=CjwKCAiA34S7BhAtEiwACZzv4Vpsk67tt9mK1lWQS8IhtFs55TM6hAQIrwjqzlkd4jR8FYJGXuK0QxoCI6EQAvD_BwE&ref=%2Fph%2Fpaywall%3Ffamily%3DHotstarPremiumSMP%26billing_interval_unit%3DMONTHS%26billing_frequency%3D1%26gad_source%3D1%26gclid%3DCjwKCAiA34S7BhAtEiwACZzv4Vpsk67tt9mK1lWQS8IhtFs55TM6hAQIrwjqzlkd4jR8FYJGXuK0QxoCI6EQAvD_BwE" class="btn btn-primary" style="color:black;">Click here</a>
 				</div>
 			</div>
 		</div>
@@ -70,7 +70,7 @@
 			
 					 <br>
 				<div class="center">
-					<a href="#" class="btn btn-primary" style="color:black;">Click here</a>
+					<a href="https://tv.apple.com/ph" class="btn btn-primary" style="color:black;">Click here</a>
 				</div>
 			</div>
 		</div>
